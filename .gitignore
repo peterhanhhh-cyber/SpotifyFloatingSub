@@ -1,0 +1,16 @@
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Local overrides
+*.local.*
